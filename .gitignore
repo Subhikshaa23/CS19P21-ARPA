@@ -1,0 +1,9 @@
+# Folders to ignore
+**/.entities/
+**/.local/
+**/.objects/
+**/.project/
+**/.screenshots/
+**/.settings/
+**/.templates/
+**/.tmh/
